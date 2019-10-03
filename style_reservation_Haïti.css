@@ -103,5 +103,7 @@ input.autre_demandes {
 
 textarea {
     border-radius: 10px;
-    background-color: #d2d3eb
+    background-color: #d2d3eb;
+    width: 100%;
+    height: 100%;
 }
