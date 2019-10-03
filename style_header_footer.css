@@ -1,0 +1,108 @@
+body {
+
+    padding: 0;
+    margin: 0;
+    padding-bottom: 0;
+}
+ul {
+    list-style: none;
+}
+/*header*//**//**//**//*header*//**//**//**//*header*//**//**//**/
+/*header*//**//**//**//*header*//**//**//**//*header*//**//**//**/
+/*header*//**//**//**//*header*//**//**//**//*header*//**//**//**/
+
+div.header {
+    background-color: #303030;
+    margin-left: 0px;
+    margin-right: 0px;
+    display: block;
+}
+
+nav {
+    text-align: center;
+    padding: 20px;
+    margin-left: 0px;
+    margin-right: 0px;
+    background-color: #303030;
+    overflow: hidden;
+    font-size: 140%;
+}
+
+a.barre_nav {
+    color: white;
+    display: inline-block;
+    padding-left: 40%;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+a.barre_nav:hover {
+    background-color: gray;
+}
+/*header*//**//**//**/
+/*header*//**//**//**/
+/*header*//**//**//**/
+
+
+/*footer*//**//**//**//**//*footer*//**//**//**//**//*footer*//**//**//**//**/
+/*footer*//**//**//**//**//*footer*//**//**//**//**//*footer*//**//**//**//**/
+/*footer*//**//**//**//**//*footer*//**//**//**//**//*footer*//**//**//**//**/
+
+div.div_prefooter {
+    background-color: gray;
+    padding-left: 70px;
+    padding-bottom: 70px;
+    padding-top: 70px;
+}
+
+div.telephone {
+    display: inline-block;
+}
+
+.tel {
+    font-size: 18px;
+    text-transform: uppercase;
+}
+
+.email {
+    font-size: 18px;
+    text-transform: uppercase;
+}
+
+div.Mail {
+    display: inline-block;
+    margin-left: 70px;
+}
+
+div.footer {
+    background-color: #303030;
+    margin-left: 0px;
+    margin-right: 0px;
+}
+
+div.div_footer {
+    display: inline-block;
+    text-align: center;
+    margin: 50px;
+    padding-left: 0;
+}
+
+ul.ul_footer {
+    padding-right: 0;
+}
+
+h2.titre_footer {
+    font-size: 18px;
+    text-transform: uppercase;
+}
+a.a_logo{
+    margin: 3px;
+}
+img.logo {
+    width: 40px;
+    height: 40px;
+}
+/*footer*//**//**//**//**/
+/*footer*//**//**//**//**/
+/*footer*//**//**//**//**/

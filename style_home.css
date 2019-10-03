@@ -1,0 +1,26 @@
+div.div_ligne{
+    margin: 20px;
+}
+div.a_destination{
+display: inline-block;
+margin: 20px;
+background-color: #303030;
+text-decoration: none;
+
+}
+a.a_destination{
+    text-decoration: none;
+}
+
+img.img_destination{
+    height: 200px;
+    width: 300px;
+}
+p.p_destination{
+    font-size: 18px;
+    color:white;
+}
+div.div_destination{
+    text-align: center;
+
+}

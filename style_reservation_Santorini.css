@@ -1,0 +1,201 @@
+body {
+
+    padding: 0;
+    margin: 0;
+    padding-bottom: 0;
+}
+/*header*//**//**//**/
+/*header*//**//**//**/
+/*header*//**//**//**/
+
+div.header {
+    background-color: #303030;
+    margin-left: 0px;
+    margin-right: 0px;
+    display: block;
+}
+
+nav {
+    text-align: center;
+    padding: 20px;
+    margin-left: 0px;
+    margin-right: 0px;
+    background-color: #303030;
+    overflow: hidden;
+    font-size: 140%;
+}
+
+a.barre_nav {
+    color: white;
+    display: inline-block;
+    padding-left: 40%;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+a.barre_nav:hover {
+    background-color: gray;
+}
+/*header*//**//**//**/
+/*header*//**//**//**/
+/*header*//**//**//**/
+
+div.section_info {
+    background-color: #c1c2d8;
+    width: 30%;
+    height: 90%;
+    display: inline-block;
+    padding-left: 2%;
+    padding-right: 2%;
+    border-radius: 5%;
+}
+
+div.section_recap {
+    background-color: #c1c2d8;
+    width: 30%;
+    height: 90%;
+    display: inline-block;
+    padding-left: 2%;
+    padding-right: 2%;
+    border-radius: 5%;
+    margin-top: 10%;
+    margin-bottom: 10%;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+div.section img {
+    width: 100%;
+    height: auto;
+}
+
+h2.recap {
+    color: blue;
+}
+
+ul {
+    list-style: none;
+}
+
+li.Destination {
+    color: black;
+    font-weight: bold;
+    font-size: 200%
+}
+
+img.img_desti {
+    margin: center;
+    height: 350px;
+    width: 550px;
+}
+
+div.prix {
+    color: orange;
+    font-weight: bold;
+    font-family: fantasy;
+    padding-left: 70%;
+}
+
+label.prix {
+    font-size: 200%;
+}
+
+label.unite_prix {
+    font-size: 40%;
+}
+
+input {
+    margin: 2%;
+    padding: 3px 10px;
+    border-radius: 10px;
+    background-color: #d2d3eb;
+}
+
+input[type=text] {
+    width: 20%;
+}
+
+input[type=mail] {
+    width: 35%;
+}
+
+input[type=tel] {
+    width: 15%;
+}
+
+label.etoile {
+    color: red;
+}
+
+input.autre_demandes {
+    width: 50%;
+    padding: 10% 12%;
+    background-color: #d2d3eb
+}
+
+textarea {
+    border-radius: 10px;
+    background-color: #d2d3eb
+}
+/*footer*//**//**//**//**/
+/*footer*//**//**//**//**/
+/*footer*//**//**//**//**/
+
+div.div_prefooter {
+    background-color: gray;
+    padding-left: 70px;
+    padding-bottom: 70px;
+    padding-top: 70px;
+}
+
+div.telephone {
+    display: inline-block;
+}
+
+.tel {
+    font-size: 18px;
+    text-transform: uppercase;
+}
+
+.email {
+    font-size: 18px;
+    text-transform: uppercase;
+}
+
+div.Mail {
+    display: inline-block;
+    margin-left: 70px;
+}
+
+div.footer {
+    background-color: #303030;
+    margin-left: 0px;
+    margin-right: 0px;
+}
+
+div.div_footer {
+    display: inline-block;
+    text-align: center;
+    margin: 50px;
+    padding-left: 0;
+}
+
+ul.ul_footer {
+    padding-right: 0;
+}
+
+h2.titre_footer {
+    font-size: 18px;
+    text-transform: uppercase;
+}
+a.a_logo{
+    margin: 3px;
+}
+img.logo {
+    width: 40px;
+    height: 40px;
+}
+/*footer*//**//**//**//**/
+/*footer*//**//**//**//**/
+/*footer*//**//**//**//**/
